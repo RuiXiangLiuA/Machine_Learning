@@ -1,4 +1,3 @@
-# 程序员：刘瑞翔
 # 编译时间：2022/1/15 9:46
 from pylab import *
 import numpy as np
