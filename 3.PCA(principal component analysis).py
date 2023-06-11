@@ -1,4 +1,3 @@
-# 程序员：刘瑞翔
 # 编译时间：2022/1/31 17:19
 import numpy as np
 import pandas as pd
