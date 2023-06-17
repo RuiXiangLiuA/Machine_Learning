@@ -1,4 +1,3 @@
-# 编译时间：2022/7/29 14:30
 import numpy as np
 import matplotlib.pyplot as plt
 import open3d as o3d
